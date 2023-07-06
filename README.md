@@ -2,7 +2,7 @@
 
 This is a Course Project where we developed a face detection model which also predicts gender, age and facial emotion of the detected faces. 
 
-We compared various pre-trained models and also, developed some other models. 
+We compared various pre-trained models and also developed some other models. 
 
 
 ## Team Members
