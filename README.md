@@ -1,4 +1,4 @@
-# Face-Detection-and-Prediction-Model
+# Face-Detection-and-Age-Gender-Emotion-Prediction-Model
 
 This is a Course Project where we developed a face detection model which also predicts gender, age and facial emotion of the detected faces. 
 
